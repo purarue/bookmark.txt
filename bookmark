@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Template from https://github.com/seanbreckenridge/havecmd
+# Template from https://github.com/purarue/havecmd
 
 # get the name of this script
 declare script_name

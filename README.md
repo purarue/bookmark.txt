@@ -32,5 +32,5 @@ To install, copy the `bookmark` script onto your `$PATH` somewhere
 Could use [`basher`](https://github.com/basherpm/basher) to do that for you:
 
 ```bash
-basher install seanbreckenridge/bookmark.txt
+basher install purarue/bookmark.txt
 ```
