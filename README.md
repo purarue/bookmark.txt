@@ -1,4 +1,4 @@
-As a sidenote: This works totally fine, I just don't use this script specifically anymore, since [I came up with a better solution](https://sean.fish/x/blog/managing-multiple-todo-txts/)
+As a sidenote: This works totally fine, I just don't use this script specifically anymore, since [I came up with a better solution](https://purarue.xyz/x/blog/managing-multiple-todo-txts/)
 
 ## bookmark.txt
 
@@ -22,8 +22,8 @@ BOOKMARKS: 1 of 3 tasks shown
 ```
 
 - its easy to create scripts on top of this since the data format is just a text file:
-  - [prompt](https://sean.fish/d/todo-prompt) - uses `rofi` to prompt me to add/mark bookmarks as 'done' (remove them)
-  - [open](https://sean.fish/d/bookmark-open) - uses `rofi` and [`urlextract`](https://pypi.org/project/urlextract/) on the selected bookmark, to open it in my browser
+  - [prompt](https://purarue.xyz/d/todo-prompt) - uses `rofi` to prompt me to add/mark bookmarks as 'done' (remove them)
+  - [open](https://purarue.xyz/d/bookmark-open) - uses `rofi` and [`urlextract`](https://pypi.org/project/urlextract/) on the selected bookmark, to open it in my browser
 
 ### Install
 
